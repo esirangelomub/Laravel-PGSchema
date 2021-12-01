@@ -13,9 +13,7 @@ applications.
 ## Installation
 
 1. Use composer to add the package into your project
-using
-`composer require mub-dot-one/schemas:dev-master`
-`composer require mub-dot-one/schemas:dev-master`
+using `composer require mub-dot-one/schemas:dev-master`
 
 2. Add 'Pacuna\Schemas\SchemasServiceProvider' to your app.php file in the
 services providers section.

@@ -1,17 +1,16 @@
 {
-    "name": "pacuna/schemas",
+    "name": "mub-dot-one/schemas",
     "description": "Laravel package for managing postgresql schemas",
     "keywords" : ["laravel", "postgres"],
     "license" : "MIT",
     "authors": [
         {
-            "name": "Pablo Acuña",
-            "email": "pabloacuna88@gmail.com"
+            "name": "Eduardo Sirangelo",
+            "email": "eduardo.sirangelo@mub.one"
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "illuminate/support": "5.*"
+        "php": "^7.3|^8.0"
     },
     "autoload": {
         "psr-0": {

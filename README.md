@@ -1,3 +1,5 @@
+THIS PROJECT IS ONLY A FORK FROM https://github.com/pacuna/Laravel-PGSchema.
+
 [LOOKING FOR MAINTAINER]
 
 Please contact me if you are interested in maintaining this library. I no longer work with Laravel so I'm not able to keep up with the updates.
